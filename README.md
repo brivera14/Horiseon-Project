@@ -11,7 +11,7 @@ As a marketing agency we want a codebase that follows accessibility standards so
 ttps://brivera14.github.io/Horiseon-Project/
 
 ## Visual Description Of The Project
-![GitHub Logo](/images/screen1.png)
+(/images/screen1.png)
 
 ## Contribution
 Made with ❤️ by Bryan Rivera
