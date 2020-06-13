@@ -56,6 +56,8 @@ p {
     font-size: 16px;
 }
 /* End of Styling for every "a" and "p" element in the webpage */
+
+/* Hero Style Start*/
 .hero {
     height: 800px;
     width: 100%;
@@ -64,6 +66,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* Hero Style End*/
 
 .float-left {
     float: left;
