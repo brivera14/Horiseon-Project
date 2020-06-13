@@ -10,9 +10,7 @@ As a marketing agency we want a codebase that follows accessibility standards so
 ## Website
 ttps://brivera14.github.io/Horiseon-Project/
 
-## Visual Description Of The Project
-
-The changes that you are going to watch are the below:
+## ACEPTANCE CRITERIA WITH THE MODIFICATIONS
 
 * GIVEN a webpage meets accessibility standards
 * WHEN I view the source code
@@ -25,6 +23,7 @@ The changes that you are going to watch are the below:
 * THEN they fall in sequential order
 * WHEN I view the title element
 * THEN I find a concise, descriptive title
+* Images were compressed to faster download of the website.
 
 As proof of the modifications you can see the first image where are the code of the old repitory
 and in the second image you can see the updated codes.
@@ -41,6 +40,28 @@ and in the second image you can see the updated codes.
 
 ![Image with updated codes](https://user-images.githubusercontent.com/66097407/84576555-91ffc180-ad83-11ea-827d-e6e4af1d0988.png "In this image we can observe the issues mentioned before fixed")
 
+## CSS MODIFICATIONS
+
+Due to the modifications in HTML to the names of divisions, renaming classes to simplify CSS, etc. 
+It is necessary to make those changes in the css file so that the webpage maintains its original design.
+
+We can observe the changes in the below images.
+
+![Image of old repository](https://user-images.githubusercontent.com/66097407/84576693-c0ca6780-ad84-11ea-91c7-19eece7159c0.png)
+
+![Image with CSS Updated](https://user-images.githubusercontent.com/66097407/84576723-fff8b880-ad84-11ea-8894-1b37353736d4.png "We can observe added comments and modification to the header section")
+
+![Image of old repository](https://user-images.githubusercontent.com/66097407/84576791-6251b900-ad85-11ea-98c2-3f2104e0b2a8.png)
+
+![Image with css Updated](https://user-images.githubusercontent.com/66097407/84576828-8c0ae000-ad85-11ea-9caa-ba0b65c76ada.png)
+
+![Image of Old repository](https://user-images.githubusercontent.com/66097407/84576877-e4da7880-ad85-11ea-869e-df6a02cdfc5b.png)
+
+![Image with css updated](https://user-images.githubusercontent.com/66097407/84576910-22d79c80-ad86-11ea-9118-b60be6ee2ab9.png "We can observe in this image that we reduced many css rules that are in the previous picture, because the instructions are the same so we could fix that by givin the same class name in the index.html to those sections")
+
+![Image of old repository](https://user-images.githubusercontent.com/66097407/84577011-d0e34680-ad86-11ea-9764-f6d19f686297.png)
+
+![Image with css updated](https://user-images.githubusercontent.com/66097407/84577037-fa9c6d80-ad86-11ea-9c07-ca08274570f3.png "We can observe the modification to the Rule footer")
 
 ## Contribution
 Made by Bryan Rivera
